@@ -16,7 +16,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "MobileVLCKit",
-            url: "https://instaply-uploads.s3.amazonaws.com/ios-libs/MobileVLCKit.xcframework.zip",
+            url: "https://instaply-public-libs.s3.eu-west-1.amazonaws.com/ios/MobileVLCKit.xcframework.zip",
             checksum: "4a2bf225beef946a75b33e1854c300382091e5c8e28d1bcff47c2ce74a90a67d"
         )
     ]
